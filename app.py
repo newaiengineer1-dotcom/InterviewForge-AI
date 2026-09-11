@@ -1,4 +1,3 @@
-````python
 import os
 import json
 import re
@@ -1980,4 +1979,3 @@ st.caption(
     "Evidence-grounded interview preparation • "
     "Honesty > Completeness"
 )
-````
